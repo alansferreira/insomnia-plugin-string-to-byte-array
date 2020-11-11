@@ -1,0 +1,23 @@
+{
+  "name": "insomnia-plugin-string-to-byte-array",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Alan S. Ferreira",
+    "email": "alansferreira1984@gmail.com",
+    "url": "https://github.com/alansferreira"
+  },
+  "insomnia": {
+    "name": "string-to-byte-array",
+    "description": ""
+  },
+  "main": "main.js",
+  "keywords": [
+    "convert",
+    "string",
+    "byte",
+    "array",
+    "insomnia",
+    "plugin"
+  ]
+}
